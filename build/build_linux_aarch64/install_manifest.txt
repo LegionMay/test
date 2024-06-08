@@ -1,0 +1,8 @@
+/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/./rknn_yolov5_demo
+/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/lib/librknnrt.so
+/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/lib/librga.so
+/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/RK3588/yolov5s-640-640.rknn
+/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/coco_80_labels_list.txt
+/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/RK356X/yolov5s-640-640.rknn
+/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/RV110X/yolov5s-640-640.rknn
+/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/bus.jpg
