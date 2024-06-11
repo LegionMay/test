@@ -1,7 +1,0 @@
-/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/build/build_linux_aarch64/CMakeFiles/rknn_yolov5_demo.dir
-/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/build/build_linux_aarch64/CMakeFiles/edit_cache.dir
-/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/build/build_linux_aarch64/CMakeFiles/rebuild_cache.dir
-/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/build/build_linux_aarch64/CMakeFiles/list_install_components.dir
-/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/build/build_linux_aarch64/CMakeFiles/install.dir
-/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/build/build_linux_aarch64/CMakeFiles/install/local.dir
-/home/osboxes/RK3566APP/tspi_linux_sdk_20230916/Release/external/rknpu2/examples/rknn_yolov5_demo/build/build_linux_aarch64/CMakeFiles/install/strip.dir
